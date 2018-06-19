@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a040f5a6bea26527aadca1e7ca88589144eaf081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lenovo\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.5\e7501a1b34325abb00d17dde96150604a0658b54\httpcore-4.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7501a1b34325abb00d17dde96150604a0658b54">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\httpcore-4.4.5_fa860701e166c0fd314c8814071a11917a608544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_3be035fdec942e6650cbf3acb241f6441667cc0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_22f24211c16ef3c890ad681df5358e6a4813048b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_e8faa15ec007390cc2a9a08ed396238538a1b218.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_4b81a33885c5a7667a5bbb47c11b6cb4e2f39c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_dc1857aeceb09d7f551bd016cce45e99637eb6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_5ee7eefdf0919d8157132d0b4836fb771bab0bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_cf28a94e7aeb39254b6023e3394bbb0ab260eab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_bfd733e71606768dc249172fc2140c792d7695c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\libs\jsoup-1.10.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\jsoup-1.10.1_5efe12e6be8129fe132d67bc326a5a36662a3a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2898cd658f6bc820c9d39c78b297e400cff117e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\libs\android-async-http-1.4.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.8_f27e9c969b1f5c21a8c465bfb041d70a142a4bcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_9adad65abd630c35eb10bb4d047fc68b32828cad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_98eecf8d3c2b23660fdd5bd4ca675ae59ac514be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_f7357986ad9c76d3fc3833287abb7d3c84052ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_fda5d8563646dd82188ccea4d967595959d509e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\AndroidStudioProjects\HttpDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_6cbe3fb24f448b230fcb4542f95c07997ffbd5c7.jar" />
+    </item>
+
+</items>
